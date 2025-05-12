@@ -67,15 +67,6 @@ Each project showcases real-world application of IoT principles using Arduino/Ra
 
 ---
 
-## 📸 Sample Outputs
-
-> **LED Blinking**
-> **Buzzer Beeping at Different Frequencies**
-> **Temperature and Humidity Monitoring on Serial Monitor**
-> **Sensor Data Streaming via Bluetooth to Mobile App**
-> **Live Webpage Displaying Sensor Data via Wi-Fi**
-
----
 
 ## 📈 Future Enhancements
 
@@ -88,7 +79,7 @@ Each project showcases real-world application of IoT principles using Arduino/Ra
 
 ## 👨‍💻 Author
 
-**Yoges**
+**Yogeswaran S**
 *Passionate about IoT, Embedded Systems, and Real-world Automation Solutions.*
 
 ---
